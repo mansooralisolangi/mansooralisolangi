@@ -1,16 +1,56 @@
-## Hi there 👋
+# 👋 Hi, I'm Mansoor Ali
 
-<!--
-**mansooralisolangi/mansooralisolangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Junior PHP Laravel Developer  
+I have 1.3 years of experience in Laravel, PHP, Bootstrap, jQuery, and MySQL.  
+I enjoy building CRUD systems, dashboards, REST APIs, and solving logical problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+### **Backend**
+- PHP  
+- OOP  
+- Laravel  
+- Node.js (Learning)  
+- Express.js (Learning)  
+- MySQL  
+- MongoDB (Learning)
+
+### **Frontend**
+- HTML  
+- CSS  
+- JavaScript  
+- TypeScript (Learning)  
+- Bootstrap  
+- jQuery  
+
+### **Tools**
+- Git & GitHub  
+- VS Code  
+- Postman  
+
+### **Other**
+- API Integration  
+- Authentication & Authorization  
+- Debugging  
+- Clean Code Practices  
+
+---
+
+## 💼 Projects
+- **Case Management System** – Chats, forms, email notifications  
+- **Weather Calculator (JavaScript)**  
+- **Grade Calculator (JavaScript)**  
+- **Prison Management System (Laravel)** – Provinces, cities, towns, dependent dropdowns  
+
+---
+
+## 📫 Contact Me
+- **Email:** mansoor@example.com  
+- **LinkedIn:** *your-link-here*  
+- **GitHub:** https://github.com/mansooralisolangi  
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to look around.*  
