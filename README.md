@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mansoor Ali
 
 ### 🌟 Junior PHP Laravel Developer  
-I have 1.3 years of experience in Laravel, PHP, Bootstrap, jQuery, and MySQL.  
+I have 1.5 years of experience in Laravel, PHP, Bootstrap, jQuery, and MySQL.  
 I enjoy building CRUD systems, dashboards, REST APIs, and solving logical problems.
 
 ---
