@@ -47,7 +47,7 @@ I enjoy building CRUD systems, dashboards, REST APIs, and solving logical proble
 ---
 
 ## 📫 Contact Me
-- **Email:** mansoor@example.com  
+- **Email:** mansooralisolangi160@gmail.com 
 - **LinkedIn:** https://www.linkedin.com/in/mansoor-ali-25046224b/
 - **GitHub:** https://github.com/mansooralisolangi  
 
