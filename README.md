@@ -1,21 +1,106 @@
-# 💫 About Me:
-<br>I’m a **Full Stack Developer** currently enhancing my skills through **Bano Qabil** and **SMIT**.  <br>I specialize in building scalable, secure, and maintainable web applications using **PHP (Laravel)** and the **JavaScript ecosystem**.<br>## 🎓 Learning Journey<br>- 🏛 **Bano Qabil:** Node.js, Express.js, TypeScript, MongoDB, Redis  <br>- 🏫 **SMIT:** Full Stack Web Development (MERN Stack & Core Web Technologies)
+# 👋 Hi, I'm Mansoor Ali  
+### 🚀 Full Stack Developer | Laravel • MERN • REST APIs
 
+I’m a **Full Stack Developer** from **Pakistan**, passionate about building **scalable, secure, and user-friendly web applications**.  
+Currently enhancing my expertise through **Bano Qabil** and **SMIT**, with a strong focus on backend development and modern JavaScript frameworks.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/omans_oor?igsh=MTF4OHA2cXhqOW0wdA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mansoor-ali-25046224b) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@mansoor.ali86) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mansoor Ali) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mansooralisolangi160@gmail.com) 
+💼 **Open to Work**  
+Actively looking for opportunities as a **Junior / Mid-Level Full Stack or Laravel Developer** (On-site / Remote / Hybrid).
 
-# 💻 Tech Stack:
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mansooralisolangi&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=mansooralisolangi&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansooralisolangi&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### 🔝 Top Contributed Repo
+## 🌐 Connect With Me
+- 💼 **LinkedIn:** https://linkedin.com/in/mansoor-ali-25046224b  
+- 📧 **Email:** mansooralisolangi160@gmail.com  
+- 📸 **Instagram:** https://www.instagram.com/omans_oor  
+- 🎵 **TikTok:** https://www.tiktok.com/@mansoor.ali86  
+
+---
+
+## 🧠 Core Skills
+- Backend Development (Laravel, Node.js, Express)
+- RESTful API Design & Integration
+- Database Design (MySQL, MongoDB)
+- Authentication & Authorization (JWT, Sessions)
+- AJAX & Async Operations
+- Clean Code, MVC Architecture & OOP
+- Git & GitHub Collaboration
+
+---
+
+## 💻 Tech Stack
+
+### Backend & Databases
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Frontend & UI
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Tools & Deployment
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Laravel Case Management System
+**Tech:** Laravel, MySQL, Bootstrap, AJAX  
+- Role-based authentication  
+- Dynamic CRUD operations  
+- Clean MVC architecture  
+🔗 *Repo:* https://github.com/mansooralisolangi/laravel-case-management
+
+---
+
+### 🔹 Student Management REST API
+**Tech:** Node.js, Express, MongoDB, TypeScript  
+- RESTful API with MVC structure  
+- JWT Authentication  
+- MongoDB Atlas integration  
+🔗 *Repo:* https://github.com/mansooralisolangi/student-api
+
+---
+
+### 🔹 MERN Stack Web Application
+**Tech:** React, Node.js, Express, MongoDB  
+- Full authentication flow  
+- API integration with frontend  
+- Responsive UI  
+🔗 *Repo:* https://github.com/mansooralisolangi/mern-app
+
+---
+
+## 🎓 Learning Journey
+- 🏛 **Bano Qabil:** Node.js, Express.js, TypeScript, MongoDB, Redis  
+- 🏫 **SMIT:** Full Stack Web Development (MERN Stack & Core Web Technologies)
+
+---
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=mansooralisolangi&theme=dark&show_icons=true)
+![](https://nirzak-streak-stats.vercel.app/?user=mansooralisolangi&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mansooralisolangi&layout=compact&theme=dark)
+
+### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=mansooralisolangi&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mansooralisolangi&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+📌 *“Consistency beats talent when talent doesn’t work consistently.”*
+
+[![](https://visitcount.itsvg.in/api?id=mansooralisolangi&icon=0&color=0)](https://visitcount.itsvg.in)
